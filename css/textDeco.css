@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  font-weight: normal;
+  text-decoration: underline wavy burlywood;
+  letter-spacing: 20px;
+  font-size: 70px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p {
+  text-align: justify;
+  line-height: 2em;
+}
+a[id="x"] {
+  text-decoration: none;
+  color: brown;
+}
+h2 {
+  text-decoration: underline dashed 3px blue;
+  text-underline-offset: 6px;
+}
+

@@ -1,0 +1,12 @@
+h2 {
+  color: teal;
+  background-color: #F9FFAA;
+}
+button {
+  color: maroon;
+  background-color: rgb(170, 240, 255);
+}
+p {
+  color: white;
+  background-color: hsl(60, 75%, 38%);
+}
